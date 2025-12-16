@@ -1,0 +1,16 @@
+{
+  "orderNumber": "PO12345",
+  "orderDate": "2025-12-01",
+  "buyer": "BUYER COMPANY",
+  "shipTo": "SHIP TO LOCATION",
+  "lines": [
+    {
+      "lineNumber": 1,
+      "itemId": "ITEM001",
+      "quantity": 10,
+      "uom": "EA",
+      "unitPrice": 5.00,
+      "extendedAmount": 50.00
+    }
+  ]
+}
